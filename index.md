@@ -3,8 +3,11 @@
 **Quickly log academic papers with one click. Never lose track of what you've read or where you read it.**
 
 ● Do you forget where you read something important that you want to cite or reread?
+
 ● Do you keep a manually updated spreadsheet of papers with notes and project tags?
+
 ● Do you want to build a habit of reading the literature and taking useful notes?
+
 ● Are you a graduate student, postdoc, or researcher?
 
 **Then Academic Reading Log is for you.**
@@ -32,8 +35,11 @@ Importance flag
 ## Built for Researchers
 
 Designed for **graduate students, PhDs, and researchers** who want:
+
 ● A simple way to track what they’ve read
+
 ● Notes that stay connected to each paper
+
 ● A system that scales across projects and years
 
 Everything stays editable, searchable, and yours.
