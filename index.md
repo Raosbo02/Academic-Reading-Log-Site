@@ -45,4 +45,4 @@ Designed for **graduate students, PhDs, and researchers** who want:
 Everything stays editable, searchable, and yours.
 Your reading log stays entirely in your Google account.
 
-[Privacy Policy](https://raosbo02.github.io/Academic-Reading-Log-Site/privacy)
+### [Privacy Policy](https://raosbo02.github.io/Academic-Reading-Log-Site/privacy)
