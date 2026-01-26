@@ -1,6 +1,6 @@
 # PRIVACY POLICY FOR ACADEMIC READING LOG
 
-Last Updated: January 13th, 2026
+Last Updated: January 26th, 2026
 
 ### OVERVIEW
 Academic Reading Log is a Chrome extension that helps researchers track academic papers. This privacy policy explains what data we collect and how we use it.
@@ -9,7 +9,7 @@ Academic Reading Log is a Chrome extension that helps researchers track academic
 We do not collect, store, or transmit any personal data to our servers. All data you enter remains in your Google account.
 
 ### PERMISSIONS EXPLAINED
-- Google Sheets Access: Required to create and save your reading log to YOUR Google Sheets. We only access the "Academic Reading Log" spreadsheet we create for you. We never access any other spreadsheets in your account.
+- Google Drive Access (drive.file scope): Required to create and save your reading log spreadsheet. We only access files that we create for you (the "Academic Reading Log" spreadsheet). We never access, view, or modify any other files in your Google Drive.
 
 - Active Tab: Required to extract paper metadata (title, authors, DOI, etc.) from the webpage you're currently viewing.
 
@@ -20,7 +20,7 @@ We do not collect, store, or transmit any personal data to our servers. All data
 - All data remains in your Google account under your control
 
 ### THIRD-PARTY SERVICES
-- Google Sheets: We use Google Sheets API to save papers to your spreadsheets. Your data is subject to Google's Privacy Policy.
+- Google Drive: We use Google Drive API to create and save your reading log spreadsheet. We only access the specific spreadsheet file we create for you. Your data is subject to Google's Privacy Policy.
 - LemonSqueezy: We use LemonSqueezy for payment processing. Your payment information is handled entirely by LemonSqueezy and subject to their privacy policy. We never see your payment details.
 
 ### DATA SECURITY
@@ -35,5 +35,5 @@ Questions about this privacy policy? Contact us at: raosbo02@gmail.com
 ### YOUR RIGHTS
 You own all your data. You can:
 - Delete your reading log at any time by deleting the Google Sheet
-- Revoke our access to Google Sheets through your Google Account settings
+- Revoke our access to Google Drive through your Google Account settings
 - Uninstall the extension at any time
