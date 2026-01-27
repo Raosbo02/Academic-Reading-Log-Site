@@ -30,7 +30,7 @@ Since we don't collect or store your data, there is no central database to breac
 We may update this privacy policy from time to time. We will notify users of any material changes by updating the "Last Updated" date.
 
 ### CONTACT
-Questions about this privacy policy? Contact us at: raosbo02@gmail.com
+Questions about this privacy policy? Contact us at: contact-us@academicreadinglog.com
 
 ### YOUR RIGHTS
 You own all your data. You can:
